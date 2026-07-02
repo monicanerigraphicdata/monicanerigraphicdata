@@ -1,5 +1,5 @@
 # Monica Neri
-Junior Developer | Full-stack automation & frontend  
+Junior Developer | Full-stack automation & frontend con background in Visual Design 
 Bologna, Italy
 
 ## In sviluppo
@@ -9,17 +9,17 @@ Bologna, Italy
 
 - **Air Quality Reporter** — TypeScript, API pubbliche  
   Dashboard dati inquinamento in tempo reale. Problema risolto: dataset con parametri coerenti per confronto.  
-  [Repo](link) | Status: in progress
+  [Live](https://monica-neri-graphic-data.vercel.app/portfolio/air-pause) | Status: in progress
 
 - **Volunteer Shift Manager** — React, TypeScript, Postgres  
-  Web app gestione turni (progetto corso). Ho ristrutturato DB per relazioni corrette tra tabelle. Filtri ora funzionano su dati coerenti. Usate emoji per distinguere visivamente volontari.
+  Web app gestione turni (progetto corso). Ho ristrutturato DB per relazioni corrette tra tabelle. Filtri ora funzionano su dati coerenti. Usate emoji per distinguere visivamente volontari. [Live](https://monica-neri-graphic-data.vercel.app/portfolio/kitchen-rota-webapp-turni-volontari) 
 
-- **Portfolio V2** — React, Tailwind  
-  Rifacimento sito con nuove competenze. [Live](link)
+- **Portfolio Monica Neri Graphic Data - V3** — React, Vite, Tailwind, Supabase, GitHub  
+  Rifacimento sito con nuove competenze. [Live](https://monica-neri-graphic-data.vercel.app/)| Status: in progress
 
 ## Competenze
 **Frontend:** HTML, CSS, JavaScript, React, TypeScript  
-**Automazione:** Web scraping (jsdom, Cheerio), API integration, Make workflows  
+**Automazione:** Edge Function (Supabase-Notion), Web scraping (base), API integration, Make workflows  
 **Database:** Relazioni, normalizzazione, Postgres  
 **Design:** Figma, Adobe suite (background 20+ anni)  
 **Tools:** Git, Node.js  
